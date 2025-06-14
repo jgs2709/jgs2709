@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Software developer based in both Brisbane, Australia and Chicago, USA.
+
 <!--
 **jgs2709/jgs2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+JGS Changes 14-Jun-2025 at 10:33AM
