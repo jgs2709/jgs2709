@@ -1,7 +1,6 @@
 ## Hi there 👋
-
+I have been working for Big Game Software in Chicago since May 2008.
 Software developer based in both Brisbane, Australia and Chicago, USA. Update on 20-Jun at 8:01AM CT.
-
 <!--
 **jgs2709/jgs2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
